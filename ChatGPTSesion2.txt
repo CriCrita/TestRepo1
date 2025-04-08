@@ -1,0 +1,15 @@
+Operator
+Sistema de agentes? pedir cita restaurante, organizar viaje, reservas...
+Funcionalidad tipo Chat GPT, pregunta respuesta pero toma acción
+
+Sora
+IA creación de videos
+
+1956 - primera vez se acuña término IA
+
+
+Big data
+análisis de un volumen elevado de datos
+Valor de la información, recogida masiva de datos estadísticos
+
+Deep Learning
